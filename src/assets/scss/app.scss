@@ -3,7 +3,7 @@
 @import 'settings';
 @import 'foundation';
 @import 'motion-ui';
-
+@import 'node_modules/font-awesome/scss/font-awesome.scss';
 @include foundation-global-styles;
 @include foundation-grid;
 @include foundation-flex-grid;
